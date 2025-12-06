@@ -408,7 +408,7 @@ END;
 /
 ```
 
-Get Total sales By date
+Get Total sales By date testing code
 ```
 SET SERVEROUTPUT ON;
 
@@ -530,7 +530,7 @@ GROUP BY customerid;
 
 Customer who spent more than Average
 ```
-SELECT customerid, name
+SELECT customerid, fullname
 FROM customer
 WHERE customerid IN (
     SELECT customerid
