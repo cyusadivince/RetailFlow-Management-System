@@ -42,6 +42,7 @@ The **RetailFlow Management System** addresses challenges in online retail opera
 ---
 ##  BPMN Diagram
 Helps to so see the Work flow of the System through various processes and how their are conducted
+![BPMN](https://github.com/cyusadivince/Final_Project/blob/main/ScreenShots/database_objects/BPMN.png)
 
 
 ## **Key Entities (Based on Schema Tables)**
